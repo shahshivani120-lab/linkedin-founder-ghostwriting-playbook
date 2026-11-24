@@ -1,2 +1,2 @@
-week_start,posts_published,impressions,members_reached,pct_out_of_network,reactions,comments,comments_per_100_reactions,saves,sends,reposts,profile_viewers,custom_button_clicks,new_followers,top_post_topic,what_to_repeat,what_to_change
-2026-11-17,,73322,48750,93%,120,64,53,10,3,0,263,13,,,,
+week_start,posts_published,impressions,members_reached,out_of_network_pct,reactions,comments,reposts,saves,sends,profile_viewers,custom_button_clicks,new_followers,inbound_dms,best_post_hook,what_to_repeat,what_to_change
+2026-11-17,,73322,48750,93%,120,64,0,10,3,263,13,,,(real case-study week),,
