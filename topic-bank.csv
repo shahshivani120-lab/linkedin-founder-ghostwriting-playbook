@@ -1,0 +1,9 @@
+id,pillar,topic_idea,source (interview Q / client / news),hook_formula,format,priority,status,date_published
+1,Client lessons,A project that went wrong and what we changed,Interview Q7,The mistake,Text,High,Idea,
+2,Technology decisions,When moving to the cloud is the wrong call,Interview Q13,The contrarian,Text,High,Idea,
+3,Buyer questions,The question every CFO asks before an IT audit,Client call,The question buyers ask,Text,Medium,Idea,
+4,Founder story,Why I started the company,Interview Q6,The lesson,Text + photo,Medium,Idea,
+5,How-to,5 checks before signing a managed IT contract,Interview Q14,The list,Carousel,High,Idea,
+6,Client wins,Cutting a client's cloud bill (with permission),Client project,The number,Text,High,Idea,
+7,Industry opinion,What the IT services industry gets wrong,Interview Q11,The contrarian,Text,Medium,Idea,
+8,Behind the scenes,What a week of running an IT company looks like,Founder notes,Before / after,Text + photo,Low,Idea,
